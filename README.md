@@ -1,4 +1,4 @@
-![Logo](cp.png)
+
 
 # Kanak Portfolio Showcase 💻
 
