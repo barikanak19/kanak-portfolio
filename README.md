@@ -1,8 +1,8 @@
-![Logo](cp.png)
 
-# Amine Portfolio Showcase 💻
 
-Welcome to Amine's Portfolio Showcase!
+# Kanak Portfolio Showcase 💻
+
+Welcome to Kanak's Portfolio Showcase!
 A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using HTML, CSS, and JavaScript.
 ---
 
@@ -57,16 +57,15 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: barikanak19@gmail.com   
+- Location: Mumbai,India  
+- LinkedIn:   
+- GitHub:  
+- Instagram: )
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Kanak Bari**
 
 
 ```bash
-git clone https://github.com/Saboo24/portofolio8.git
